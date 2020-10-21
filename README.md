@@ -1,5 +1,4 @@
 # panel_demo
-initial upload.
 
 This program features a panel and button demonstration using breezypythongui.py to assist with creating a GUI.
 
