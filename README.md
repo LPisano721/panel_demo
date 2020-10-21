@@ -1,6 +1,7 @@
 # panel_demo
 initial upload.
+
 This program features a panel and button demonstration using breezypythongui.py to assist with creating a GUI.
 
-#Note:
+# Note:
 Both the files, paneldemo.py and breezypythongui.py, must be in the same working directory
